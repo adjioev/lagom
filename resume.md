@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My CV
+title: Curriculum Vitae
 ---
 
 # Summary
@@ -21,11 +21,13 @@ I have gained comprehensive experience in all aspects of the Software Developmen
 
 # Work experinece
 
-### [Optus Pty Limited](http://optus.com.au)
+### [Yes Optus](http://optus.com.au)
 **GIS System Engineer (team leader). Sydney, Australia (2010 – now)**
 
 My role in Optus was architecture, system design and development for geospatial systems based on open GIS standards. 
 Some projects I worked on:
+
+SPATIALinfo, with offices in Melbourne, Victoria and Englewood, Colorado, specializes in developing network-management software solutions for the cable and telecommunications industries. SpatialSUITE products make it easy for professionals to map, model and manage complex inside plant (ISP) and outside plant (OSP) communications networks. From the POI to the service address and everything in between, spatialSUITE’s performance makes it the ideal choice for businesses that want to leverage the network asset data of their fiber, copper and RF networks.
 
 * 	**MapPlanner** – Web based project designed for Optus Networking Designers and Planners requirements. Its aimed to 
 	help engineers to view, analyze and plan feature Optus infrastructure and include some features like Optus network 
@@ -70,8 +72,8 @@ Selected projects I worked on:
 **GIS Software Developer	Sydney, Australia  (2001 - 2005)**  
 
 Social Change was a small but rapidly growing company during the time of my employment. I was part of the R&D team which developed pilot and commercial inter-operable web-mapping systems based on the latest Open GIS Standards.
-*	Webmap Composer development - a spatial portal, Social Changes flagship product.
-*	MapBroker development - the engine behind various Social Change spatial applications.
+*	[Webmap Composer](http://webmap.socialchangeonline.com.au/support/) development - a spatial portal, Social Changes flagship product.
+*	MapBroker development - the engine behind various Social Change spatial applications where data is rendered into a single interactive 	  map accessible via the web.
 *	The Conform-IT project development - a flexible framework for implementing Web Services conformance testing.
 *	AIMS 4 development - content management system for publishing web content through a web browser.
 *	Development of server load testing application.
@@ -91,15 +93,22 @@ Social Change was a small but rapidly growing company during the time of my empl
 
 # Skills
 
-*GIS Technologies*
-OpenGIS specs, OpenLayers, uDig, OpenJUMP, GML, GeoServer, MapServer
-Web Technologies	HTML/XML/XSLT, JavaScript, jQuery, Web 2.0/AJAX, CSS
-Java Technologies 	Java API, J2EE, Understanding of Java Patterns, Spring, Hibernate, Grails, Eclipse IDE, Netbeans IDE
-Web Services 	Tomcat, Apache, Inter-operable Web Services (WFS, WMS)
-Development Process	Architecture Design, UML, Code Versioning Systems (Git, CVS, SVN), Hudson, Maven, Ant, JIRA, Wiki, Coding, Bug Tracking, Testing
-Databases 	PostgreSQL/PostGIS, MySQL
-Operating Systems	Linux(use Ubuntu/Debian as my primary OS), Windows
-Scripting Languages/frameworks	Ruby/Ruby on Rails, Python, Django
+* GIS Technologies  
+	OpenGIS specs, OpenLayers, uDig, OpenJUMP, GML, GeoServer, MapServer
+* Web Technologies  
+	HTML/XML/XSLT, JavaScript, jQuery, Web 2.0/AJAX, CSS
+* Java Technologies  
+	Java API, J2EE, Understanding of Java Patterns, Spring, Hibernate, Grails, Eclipse IDE, Netbeans IDE
+* Web Services  
+	Tomcat, Apache, Inter-operable Web Services (WFS, WMS)
+* Development Process  
+	Architecture Design, UML, Code Versioning Systems (Git, CVS, SVN), Hudson, Maven, Ant, JIRA, Wiki, Coding, Bug Tracking, Testing
+* Databases  
+	PostgreSQL/PostGIS, MySQL, Oracle
+* Operating Systems  
+	Linux(use Ubuntu/Debian as my primary OS), Windows
+* Scripting Languages/frameworks  
+	Ruby, Ruby on Rails, Python, Django
 
 # Referees  
 
