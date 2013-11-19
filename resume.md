@@ -21,7 +21,7 @@ I have gained comprehensive experience in all aspects of the Software Developmen
 
 # Work experinece
 
-###[Optus Pty Limited](http://optus.com.au)
+### [Optus Pty Limited](http://optus.com.au)
 **GIS System Engineer (team leader). Sydney, Australia (2010 – now)**
 
 My role in Optus was architecture, system design and development for geospatial systems based on open GIS standards. 
@@ -37,13 +37,13 @@ Some projects I worked on:
 
 
 
-###[Makebook Pty Ltd](http://www.makebook.com.au/)
+### [Makebook Pty Ltd](http://www.makebook.com.au/)
 **Software Engineer, Sydney, Australia (2009 -2010)**
 
 I worked on a project called Makebook, a service designed for writing and publishing books. The project was initially written under the Grails platform and was later rewritten with Ruby on Rails technologies. I was responsible for service designing, developing and testing.
 
 
-###[LisaSoft Pty Ltd](http://www.lisasoft.com/)
+### [LisaSoft Pty Ltd](http://www.lisasoft.com/)
 **GIS software Engineer	Sydney, Australia (2005 - 2009)**
 
 As a system engineer my main role was to develop software applications for Lisasoft and TerraPages. 
@@ -66,7 +66,7 @@ Selected projects I worked on:
 *	Development of the OpenGIS Directory service which allows online searching of 
 	directories of geographically distributed objects or points of interest.
 
-###[Social Change Online](http://webmap.socialchangeonline.com.au/)
+### [Social Change Online](http://webmap.socialchangeonline.com.au/)
 **GIS Software Developer	Sydney, Australia  (2001 - 2005)**  
 
 Social Change was a small but rapidly growing company during the time of my employment. I was part of the R&D team which developed pilot and commercial inter-operable web-mapping systems based on the latest Open GIS Standards.
@@ -80,18 +80,19 @@ Social Change was a small but rapidly growing company during the time of my empl
 *	Documentation on development tools and procedures.
 *	Research on mapping products and standards.
 
-###Publishing House ”Manager”
+### Publishing House ”Manager”
 **IT Support	Moscow, Russia (1998 - 1999)**
 *	LAN network maintenance, including several PC Workstations, network printers and modems.
 *	Installation and configuration of appropriate software.
 *	Consultation on computer problems.
 
-###Building company ”MOIR”
-*IT Consultant	Moscow, Russia 1997 - 1998*
+### Building company ”MOIR”
+**IT Consultant	Moscow, Russia 1997 - 1998**
 
-SKILLS
+# Skills
 
-GIS Technologies	OpenGIS specs, OpenLayers, uDig, OpenJUMP, GML, GeoServer, MapServer
+*GIS Technologies*
+OpenGIS specs, OpenLayers, uDig, OpenJUMP, GML, GeoServer, MapServer
 Web Technologies	HTML/XML/XSLT, JavaScript, jQuery, Web 2.0/AJAX, CSS
 Java Technologies 	Java API, J2EE, Understanding of Java Patterns, Spring, Hibernate, Grails, Eclipse IDE, Netbeans IDE
 Web Services 	Tomcat, Apache, Inter-operable Web Services (WFS, WMS)
@@ -100,6 +101,6 @@ Databases 	PostgreSQL/PostGIS, MySQL
 Operating Systems	Linux(use Ubuntu/Debian as my primary OS), Windows
 Scripting Languages/frameworks	Ruby/Ruby on Rails, Python, Django
 
-REFEREES
+# Referees  
 
 Provided upon request.
