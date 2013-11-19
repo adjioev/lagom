@@ -22,7 +22,7 @@ I have gained comprehensive experience in all aspects of the Software Developmen
 # Work experinece
 
 ### [Yes Optus](http://optus.com.au)
-**GIS System Engineer (team leader). Sydney, Australia (2010 – now)**
+**GIS System Engineer/Team leader. Sydney, Australia (2010 – now)**
 
 My role in Optus was architecture, system design and development for geospatial systems based on open GIS standards. 
 Some projects I worked on:
@@ -40,13 +40,13 @@ SPATIALinfo, with offices in Melbourne, Victoria and Englewood, Colorado, specia
 
 
 ### [Makebook Pty Ltd](http://www.makebook.com.au/)
-**Software Engineer, Sydney, Australia (2009 -2010)**
+**Software Developer, Sydney, Australia (2009 -2010)**
 
 I worked on a project called Makebook, a service designed for writing and publishing books. The project was initially written under the Grails platform and was later rewritten with Ruby on Rails technologies. I was responsible for service designing, developing and testing.
 
 
 ### [LisaSoft Pty Ltd](http://www.lisasoft.com/)
-**GIS software Engineer	Sydney, Australia (2005 - 2009)**
+**GIS Software Engineer	Sydney, Australia (2005 - 2009)**
 
 As a system engineer my main role was to develop software applications for Lisasoft and TerraPages. 
 Selected projects I worked on: 
