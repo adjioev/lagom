@@ -9,36 +9,40 @@ I have gained comprehensive experience in all aspects of the Software Developmen
 
 ---
 
-# Education
+## Education
 
-* ### University of Western Sydney (1999 – 2001)  
-Graduate Diploma in Business Computing	Sydney, Australia 
+* #### University of Western Sydney (1999 – 2001)  
+*Graduate Diploma in Business Computing	Sydney, Australia* 
 	
-* ### Moscow State University (1993 -1999)  
-Master Degree in Physics, Moscow, Russia 
+* #### Moscow State University (1993 - 1999)  
+*Master Degree in Physics, Moscow, Russia*
 
 ---
 
-# Work experinece
+## Work experinece
 
-• Optus Pty Limited
-GIS System Engineer, team leader.	Sydney, Australia 
-2010 – Apr 2013 
+* ####Optus Pty Limited  
+*GIS System Engineer (team leader). Sydney, Australia (2010 – Apr 2013)*  
+
 My role in Optus was architecture, system design and development for geospatial systems based on open GIS standards. 
-Some projects I worked on:
-•	MapBlaster – Web based geospatial system aimed to replace Gismo GMAP, DI and SQ. Currently works as a central source of information for Optus geospatial data for designers, planners, radio engineers and service providers. 
-•	MapPlanner – Web based project designed for Optus Networking Designers and Planners requirements. Its aimed to help engineers to view, analyze and plan feature Optus infrastructure and include some features like Optus network routing and diversity.
-•	Optus Coverage maps for Optus portal.
+Some projects I worked on:  
 
-• Makebook Pty Ltd
-  Software Engineer	Sydney, Australia 
-2009 -2010 
+* 	**MapBlaster** – Web based geospatial system aimed to replace Gismo GMAP, DI and SQ. Currently works as a 
+	central source of information for Optus geospatial data for designers, planners, 
+	radio engineers and service providers.  
+* 	**MapPlanner** – Web based project designed for Optus Networking Designers and Planners requirements. Its aimed to 
+	help engineers to view, analyze and plan feature Optus infrastructure and include some features like Optus network 
+	routing and diversity.
+* **[Optus Coverage maps](http://www2.optus.com.au)** for Optus portal.
+
+* ####Makebook Pty Ltd
+## Software Engineer, Sydney, Australia (2009 -2010)
 I worked on a project called Makebook, a service designed for writing and publishing books. The project was initially written under the Grails platform and was later rewritten with Ruby on Rails technologies. I was responsible for service designing, developing and testing.
 
 
-• LisaSoft Pty Ltd
-   GIS software Engineer	Sydney, Australia 
-2005 - 2009 
+• ####LisaSoft Pty Ltd  
+*GIS software Engineer	Sydney, Australia (2005 - 2009)*  
+
 As a system engineer my main role was to develop software applications for Lisasoft and TerraPages. Selected projects I worked on: 
 •	Cost estimation, design and development for SOC (State of the Catchments) Online project for Department of Environment and Climate Change (DECC). This application is heavily based on jQuery with a GeoServer as a back-end.  
 •	Design and development of continuous integration building infrastructure for LisaSoft company (Ant, Maven, Hudson, SVN, etc). 
@@ -49,8 +53,8 @@ As a system engineer my main role was to develop software applications for Lisas
 •	Development of the OpenGIS Directory service which allows online searching of directories of geographically distributed objects or points of interest.
 
 • Social Change Online
-GIS Software Developer	Sydney, Australia 
-2001 - 2005 
+*GIS Software Developer	Sydney, Australia  (2001 - 2005)*  
+
 Social Change was a small but rapidly growing company during the time of my employment. I was part of the R&D team which developed pilot and commercial inter-operable web-mapping systems based on the latest Open GIS Standards.
 •	Webmap Composer development - a spatial portal, Social Changes flagship product.
 •	MapBroker development - the engine behind various Social Change spatial applications.
